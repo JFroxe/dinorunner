@@ -1,0 +1,15 @@
+{
+  "name": "Dino Runner",
+  "short_name": "Dino Runner",
+  "id": "com.example.dinorunner",
+  "description": "Controls :\n   Computer : Up and Down arrow keys\n   Touch screens : Swipe up or down",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "260bf3de6a441b34f43ea564cf9491817703ce2359426decd3bb09c35079d58d-2023-10-09.png",
+        "sizes": "512x512"
+      }]
+}
